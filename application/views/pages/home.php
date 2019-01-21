@@ -1,1 +1,3 @@
-better fucking work
+<?php
+  echo "fuuuuuuuuuuuuuuck";
+?>
